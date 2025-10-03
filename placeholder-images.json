@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "ningaloo-hero",
+      "description": "A stunning wide shot of the Ningaloo reef from above.",
+      "imageUrl": "https://images.unsplash.com/photo-1694059621818-7eb71be8b5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxvY2VhbiUyMHJlZWZ8ZW58MHx8fHwxNzU4Nzk1NjAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ocean reef"
+    },
+    {
+      "id": "coral-reef",
+      "description": "A close-up shot of vibrant, healthy coral.",
+      "imageUrl": "https://images.unsplash.com/photo-1741796193256-3e1b45965015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3JhbCUyMGNsb3NlLXVwfGVufDB8fHx8MTc1ODg3MjcyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coral close-up"
+    },
+    {
+      "id": "sunscreen-beach",
+      "description": "A bottle of sunscreen on a sandy beach with the ocean in the background.",
+      "imageUrl": "https://images.unsplash.com/photo-1724229349904-68bff7ca7823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxiZWFjaCUyMHN1bnNjcmVlbnxlbnwwfHx8fDE3NTg4NzI3MjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunscreen"
+    },
+    {
+      "id": "turtle-swimming",
+      "description": "A majestic sea turtle swimming gracefully in clear blue water.",
+      "imageUrl": "https://images.unsplash.com/photo-1496196614460-48988a57fccf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzZWElMjB0dXJ0bGV8ZW58MHx8fHwxNzU4ODE5MjQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sea turtle"
+    },
+    {
+      "id": "ningaloo-coast",
+      "description": "The rugged and beautiful coastline of the Ningaloo region.",
+      "imageUrl": "https://images.unsplash.com/photo-1629118753693-be5a0a4201cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuaW5nYWxvbyUyMGNvYXN0fGVufDB8fHx8MTc1ODg2OTE1OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ningaloo coast"
+    },
+    {
+      "id": "certificate-background",
+      "description": "A beautiful underwater scene to serve as a background for the certificate.",
+      "imageUrl": "https://images.unsplash.com/photo-1758792744091-93896ac7ce3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx1bmRlcndhdGVyJTIwc2NlbmV8ZW58MHx8fHwxNzU4ODcyNzIwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "underwater scene"
+    },
+    {
+      "id": "ningaloo-miracle",
+      "description": "Sunlight filtering through clear blue water onto a vibrant coral reef.",
+      "imageUrl": "https://images.unsplash.com/photo-1594191372137-73531c3a64d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1bmRlcndhdGVyJTIwc3VubGlnaHR8ZW58MHx8fHwxNzE3ODE5NzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "underwater sunlight"
+    }
+  ]
+}
